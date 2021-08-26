@@ -4,7 +4,7 @@
 # MERN Stack - Ecommerse Website
 
 
-> Blog website built with the MERN stack with React Context API for state management, pure CSS for style
+> Ecommerse website built with the MERN stack with React Context API for state management, pure CSS for style
 
 ## Author: Pinki Kumari
 
