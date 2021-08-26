@@ -1,10 +1,10 @@
 # mern-online-market
 
 
-# MERN Stack - Ecommerse Website
+# MERN Stack - Ecommerse Shopping Website
 
 
-> Ecommerse website built with the MERN stack with React Context API for state management, pure CSS for style
+> Ecommerse Shopping website built with the MERN stack with React Context API for state management, pure CSS for style
 
 ## Author: Pinki Kumari
 
@@ -28,7 +28,7 @@
 ### Server runs on http://localhost:5000 and client on http://localhost:3000
 
 ## About The Ecommerse Website
-   * It is mern Ecommerse Website in which we can buy products and see the transaction history.
+   * It is mern Ecommerse Shopping Website in which we can buy products and see the transaction history.
    
    
  Thank you.😊😊 
